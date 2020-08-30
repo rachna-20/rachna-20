@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my Github page
+# Hello 👋 Welcome to my Github page
 
 ## About me:
 ### I'm an aspiring Data Scientist
