@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github page
 
-<!--
-**rachna-20/rachna-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
+# I'm an aspiring Data Scientist
 
-Here are some ideas to get you started:
+# I am currently pursuing degree of B.Tech. I am a 3rd year Computer Science and Engineering student at Krishna Engineering College, Ghaziabad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social Handle - Connect with me on these platforms:
+
+# LinkedIn :  https://www.linkedin.com/in/rachna-devi-a37027171
+# Gmail : rachnadevi8986@gmail.com
+
+
