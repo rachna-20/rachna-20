@@ -3,7 +3,7 @@
 ### About me:
 #### I'm an aspiring Data Scientist
 
-#### I am currently pursuing degree of B.Tech. I am a 3rd year Computer Science and Engineering student at Krishna Engineering College, Ghaziabad
+#### I am currently pursuing degree of B.Tech. I am a 4th year Computer Science and Engineering student at Krishna Engineering College, Ghaziabad
 
 ### Social Handle - Connect with me on these platforms:
 
